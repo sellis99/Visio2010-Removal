@@ -1,0 +1,5 @@
+<Configuration Product="VisPro">
+ <Display Level="none" CompletionNotice="no"/>
+ <Setting Id="SETUP_REBOOT" Value="NEVER"/>
+ <Logging Level="Standard" Path="C:\temp\VisioProUninst" Template="Microsoft Visio Professional Uninstall(*).log"/>
+</Configuration>

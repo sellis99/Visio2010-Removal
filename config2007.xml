@@ -1,0 +1,7 @@
+<Configuration Product="VisPro"> 
+<Display Level="none" CompletionNotice="no" SuppressModal="yes" AcceptEula="yes" /> 
+
+<Logging Type="standard" Path="C:\temp\VisioProUninst" Template="Microsoft Office Visio Professional Setup(*).log" /> --> 
+
+<Setting Id="SETUP_REBOOT" Value="NEVER" /> 
+</Configuration>
